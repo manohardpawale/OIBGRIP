@@ -1,5 +1,3 @@
-
-
 ### About Oasis Infobyte
 
 **OASIS INFOBYTE** is a community of diverse people coming together with similar objectives and ultimate goals. 
@@ -43,8 +41,7 @@ that is sent to a massive number of users at one time, frequently containing cry
 messages, scams, or most dangerously, phishing content.
 
 In this Project, use Python to build an email spam detector. Then, use machine learning to
-train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
-started!
+train the spam detector to recognize and classify emails into spam and non-spam.
 
 Dataset [Here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
@@ -58,3 +55,7 @@ their future sales with every step they take to manipulate the cost of advertisi
 product. So let’s start the task of sales prediction with machine learning using Python.
 
 Dataset [Here](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+
+### Contact Information of Company
+
+LinkedIn : [linkedin/OasisInfobyte](https://www.linkedin.com/company/oasis-infobyte/)
