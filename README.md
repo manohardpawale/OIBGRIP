@@ -1,14 +1,15 @@
-### About Oasis Infobyte
+### ABOUT OASIS INFOBYTE
 
 **OASIS INFOBYTE** is a community of diverse people coming together with similar objectives and ultimate goals. 
 **OASIS INFOBYTE** is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests. We develop enriching environments and experiences that promote students' knowledge and wellbeing.
 
 Website: https://oasisinfobyte.com/
 
-### List of Task
+---
 
-#### IRIS FLOWER CLASSIFICATION WITH MACHINE LEARNING
+### LIST OF TASK
 
+#### Iris Flower Classification With Machine Learning
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
 measurements. Now assume that you have the measurements of the iris flowers according to
 their species, and here your task is to train a machine learning model that can learn from the
@@ -16,8 +17,7 @@ measurements of the iris species and classify them.
 
 Dataset [Here](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 
-#### UNEMPLOYMENT ANALYSIS WITH PYTHON
-
+#### Unemployment Analysis With Python
 Unemployment is measured by the unemployment rate which is the number of people
 who are unemployed as a percentage of the total labour force. We have seen a sharp
 increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
@@ -25,8 +25,7 @@ can be a good data science project.
 
 Dataset [Here](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 
-#### CAR PRICE PREDICTION WITH MACHINE LEARNING
-
+#### Car Price Prediction With Machine Learning
 The price of a car depends on a lot of factors like the goodwill of the brand of the car,
 features of the car, horsepower and the mileage it gives and many more. Car price
 prediction is one of the major research areas in machine learning. So if you want to learn
@@ -34,8 +33,7 @@ how to train a car price prediction model then this project is for you.
 
 Dataset [Here](https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv)
 
-#### EMAIL SPAM DETECTION WITH MACHINE LEARNING
-
+#### Email Spam Detection With Machine Learning
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
 that is sent to a massive number of users at one time, frequently containing cryptic
 messages, scams, or most dangerously, phishing content.
@@ -45,7 +43,7 @@ train the spam detector to recognize and classify emails into spam and non-spam.
 
 Dataset [Here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-#### SALES PREDICTION USING PYTHON
+#### Sales Prediction Using Python
 Sales prediction means predicting how much of a product people will buy based on factors
 such as the amount you spend to advertise your product, the segment of people you
 advertise for, or the platform you are advertising on about your product.
@@ -56,14 +54,13 @@ product. So let’s start the task of sales prediction with machine learning usi
 
 Dataset [Here](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
 
-### Contact Information of Company
+---
 
-**Oasis Infobyte**
+### CONTACT INFORMATION OF COMPANY
 
-Satya Niketan, South West New Delhi, India - 110021
-
-LinkedIn : [linkedin/OasisInfobyte](https://www.linkedin.com/company/oasis-infobyte/)	
-
-Email ID: services.oasisinfobyte@gmail.com
-
-Website: https://oasisinfobyte.com/
+**Oasis Infobyte**<br/>
+Satya Niketan, South West New Delhi, India - 110021<br/>
+LinkedIn : [linkedin/OasisInfobyte](https://www.linkedin.com/company/oasis-infobyte/)	<br/>
+Email ID: services.oasisinfobyte@gmail.com<br/>
+Website: https://oasisinfobyte.com/<br/>
+YoutTube: https://www.youtube.com/channel/UCqQcwjVOU0xsxGEdB86060A
